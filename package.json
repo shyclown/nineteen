@@ -1,7 +1,7 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "nineteen",
   "version": "1.0.0",
-  "description": "",
+  "description": "Trying out react 19",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
